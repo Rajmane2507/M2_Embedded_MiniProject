@@ -1,1 +1,1 @@
-# M2_Embedded_MiniProject
+# M2_Embedded_Heat_Controller_Sys
