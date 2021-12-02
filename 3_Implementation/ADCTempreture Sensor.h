@@ -1,7 +1,7 @@
 /**
  * @file ADCTempreture Sensor.h
  * @author Rajesh Mane
- * @brief A program for Heat_Controller_Sys..
+ * @brief A program for Heat_Controller_Sys.
  * @version 0.1
  * @date 2021-12-02
  * 
