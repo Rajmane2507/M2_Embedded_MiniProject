@@ -101,5 +101,5 @@ How - By using sensors
 
 ## CONCLUSION:
 
-We have designed a simple method of temperature control system automatically.Utilizing the concept cooling after certain temperature, ATMEGA328-based hardwarealong with display was realized in hardware
+We have designed a simple method of temperature control system automatically. Utilizing the concept cooling after certain temperature, ATMEGA328-based hardware along with display was realized in hardware
 
